@@ -6,7 +6,7 @@
 
 ## 🛠 Linguagens e Tecnologias
 - **Linguagens:** C#, PHP, JavaScript, HTML, CSS, React, Kotlin, Python
-- **Ferramentas e Ambientes:** VS Code, Visual Studio, XAMPP, GitHub
+- **Ferramentas e Ambientes:** VS Code, Visual Studio, XAMPP, GitHub, SQL Server Management Studio, Antigravity, intellij IDEA, Postman
 
 ## 📊 Estatísticas do GitHub
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorcgarcia1&show_icons=true&theme=radical)
