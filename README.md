@@ -5,7 +5,7 @@
 🚀 Apaixonado por tecnologia e desenvolvimento de soluções criativas.
 
 ## 🛠 Linguagens e Tecnologias
-- **Linguagens:** C#, PHP, JavaScript, HTML, CSS
+- **Linguagens:** C#, PHP, JavaScript, HTML, CSS, React, Kotlin, Python
 - **Ferramentas e Ambientes:** VS Code, Visual Studio, XAMPP, GitHub
 
 ## 📊 Estatísticas do GitHub
